@@ -1,0 +1,6 @@
+[core]
+    remote = amlstorage
+['remote "storage"']
+    url = gdrive://1zm71tPRrjEGLVeyPUIaxJ8ywhNaEtAk5
+['remote "amlstorage"']
+    url = gdrive://1zm71tPRrjEGLVeyPUIaxJ8ywhNaEtAk5
