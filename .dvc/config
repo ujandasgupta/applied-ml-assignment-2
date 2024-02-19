@@ -1,5 +1,6 @@
 [core]
     remote = amlstorage
+    autostage = true
 ['remote "storage"']
     url = gdrive://1zm71tPRrjEGLVeyPUIaxJ8ywhNaEtAk5
 ['remote "amlstorage"']
